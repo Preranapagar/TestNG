@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-10-05T12:39:24 IST" name="Default suite" finished-at="2025-10-05T12:39:24 IST" duration-ms="88">
+    <groups>
+    </groups>
+    <test started-at="2025-10-05T12:39:24 IST" name="Default test" finished-at="2025-10-05T12:39:24 IST" duration-ms="88">
+      <class name="Tutorial1.demo1">
+        <test-method signature="homeTitle()[pri:0, instance:Tutorial1.demo1@557caf28]" started-at="2025-10-05T12:39:24 IST" name="homeTitle" finished-at="2025-10-05T12:39:24 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homeTitle -->
+        <test-method signature="logValidate()[pri:0, instance:Tutorial1.demo1@557caf28]" started-at="2025-10-05T12:39:24 IST" name="logValidate" finished-at="2025-10-05T12:39:24 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logValidate -->
+        <test-method signature="login()[pri:0, instance:Tutorial1.demo1@557caf28]" started-at="2025-10-05T12:39:24 IST" name="login" finished-at="2025-10-05T12:39:24 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- Tutorial1.demo1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
