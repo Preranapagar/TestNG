@@ -1,49 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-10-05T14:12:29 IST" name="Default suite" finished-at="2025-10-05T14:12:29 IST" duration-ms="124">
+  <suite started-at="2025-10-05T14:33:07 IST" name="Default suite" finished-at="2025-10-05T14:33:28 IST" duration-ms="20711">
     <groups>
     </groups>
-    <test started-at="2025-10-05T14:12:29 IST" name="Default test" finished-at="2025-10-05T14:12:29 IST" duration-ms="124">
-      <class name="Tutorial1.demo3">
-        <test-method signature="logo()[pri:1, instance:Tutorial1.demo3@5b7a5baa]" started-at="2025-10-05T14:12:29 IST" name="logo" finished-at="2025-10-05T14:12:29 IST" duration-ms="16" status="PASS">
+    <test started-at="2025-10-05T14:33:07 IST" name="Default test" finished-at="2025-10-05T14:33:28 IST" duration-ms="20711">
+      <class name="Tutorial1.demo4">
+        <test-method signature="login()[pri:1, instance:Tutorial1.demo4@175c2241]" started-at="2025-10-05T14:33:07 IST" name="login" finished-at="2025-10-05T14:33:28 IST" duration-ms="20632" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- logo -->
-        <test-method signature="validateHomeLog()[pri:2, instance:Tutorial1.demo3@5b7a5baa]" started-at="2025-10-05T14:12:29 IST" name="validateHomeLog" finished-at="2025-10-05T14:12:29 IST" duration-ms="7" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- validateHomeLog -->
-        <test-method signature="validateHomeLog()[pri:2, instance:Tutorial1.demo3@5b7a5baa]" started-at="2025-10-05T14:12:29 IST" name="validateHomeLog" finished-at="2025-10-05T14:12:29 IST" duration-ms="2" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- validateHomeLog -->
-        <test-method signature="validateHomeLog()[pri:2, instance:Tutorial1.demo3@5b7a5baa]" started-at="2025-10-05T14:12:29 IST" name="validateHomeLog" finished-at="2025-10-05T14:12:29 IST" duration-ms="3" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- validateHomeLog -->
-        <test-method signature="addEmployee()[pri:3, instance:Tutorial1.demo3@5b7a5baa]" started-at="2025-10-05T14:12:29 IST" name="addEmployee" finished-at="2025-10-05T14:12:29 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- addEmployee -->
-        <test-method signature="addEmployee()[pri:3, instance:Tutorial1.demo3@5b7a5baa]" started-at="2025-10-05T14:12:29 IST" name="addEmployee" finished-at="2025-10-05T14:12:29 IST" duration-ms="2" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- addEmployee -->
-        <test-method signature="addEmployee()[pri:3, instance:Tutorial1.demo3@5b7a5baa]" started-at="2025-10-05T14:12:29 IST" name="addEmployee" finished-at="2025-10-05T14:12:29 IST" duration-ms="2" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- addEmployee -->
-        <test-method signature="addEmployee()[pri:3, instance:Tutorial1.demo3@5b7a5baa]" started-at="2025-10-05T14:12:29 IST" name="addEmployee" finished-at="2025-10-05T14:12:29 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- addEmployee -->
-        <test-method signature="addEmployee()[pri:3, instance:Tutorial1.demo3@5b7a5baa]" started-at="2025-10-05T14:12:29 IST" name="addEmployee" finished-at="2025-10-05T14:12:29 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- addEmployee -->
-      </class> <!-- Tutorial1.demo3 -->
+        </test-method> <!-- login -->
+      </class> <!-- Tutorial1.demo4 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
